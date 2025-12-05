@@ -130,9 +130,8 @@ Overall, this project delivers a **complete vendor intelligence system** that tr
 ## 6️⃣ SCREENSHOTS  
 
 ### 📌 Dashboard Previews  
-
-![Vendor Performance Dashboard 1](https://github.com/raksharshetty67/Vendor_Performance_Analysis_Project/blob/main/Screenshot%202025-10-22%20163209.png)
   
-![Vendor Performance Dashboard 2](https://github.com/raksharshetty67/Vendor_Performance_Analysis_Project/blob/main/Screenshot%202025-10-22%20163115.png)
+![Vendor Performance Dashboard 1](https://github.com/raksharshetty67/Vendor_Performance_Analysis_Project/blob/main/Screenshot%202025-10-22%20163115.png)
+![Vendor Performance Dashboard 2](https://github.com/raksharshetty67/Vendor_Performance_Analysis_Project/blob/main/Screenshot%202025-10-22%20163209.png)
 
 ---
