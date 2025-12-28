@@ -144,4 +144,12 @@ By moving beyond static Excel sheets to a **dynamic, automated analytics pipelin
 
 This project exemplifies a **data-driven, industry-aligned** approach to vendor and procurement analytics—bridging the gap between raw data and strategic decision-making.
 
+## 📬 Contact
+
+- **Email:** raksharshetty67@gmail.com  
+- **GitHub:** https://github.com/raksharshetty67  
+- **Linktree:** https://linktr.ee/raksharshetty64  
+- **Twitter (X):** https://x.com/raksharshetty64  
+- **Topmate:** https://topmate.io/raksharshetty_67  
+
 ---
